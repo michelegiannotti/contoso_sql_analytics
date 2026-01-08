@@ -1,1 +1,3 @@
-# contoso_sql_analytics
+# contoso: an analysis with sql and python through Colab.
+
+
